@@ -22,7 +22,7 @@
 
 &nbsp;  
 
-- 📖 I'm currently learning ***Rust.**
+- 📖 I'm currently learning **Rust.**
 - 👩‍💻 I’m currently working on **a MGS inspired MP3 Player.**
 - ⚡ I'm a huge fan of **Star Wars and Metal Gear.**
 - 🏓 I'm passionate about **playing PS2 games, programming, writing, and enjoying life.**
@@ -33,5 +33,5 @@
 </p>
 
 <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=122B07&title_color=FEFEFD&text_color=CDDBC4&icon_color=76c7c0&border_color=transparent&card_width=500&border_radius=10" alt="GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=122B07&title_color=FEFEFD&text_color=CDDBC4&icon_color=76c7c0&border_color=transparent&card_width=500&border_radius=10" alt="GitHub Stats" />
 </p>
