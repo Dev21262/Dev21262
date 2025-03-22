@@ -5,10 +5,10 @@
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-        <img src="./img/HTML5.png" alt="HTML5" title="HTML5" width="65" height="65"  />
-        <img src="./img/CSS3.png" alt="CSS3"  title="CSS3" width="65" height="65"  />
+        <img src="./img/HTML5.png" alt="HTML5" title="HTML5" width="55" height="65"  />
+        <img src="./img/CSS3.png" alt="CSS3"  title="CSS3" width="60" height="60"  />
         <img src="./img/JS.png" alt="JavaScript" title="Javascript"  width="65" height="65"  />
-        <img src="./img/React.png" alt="React" title="React"  width="65" height="65"  />
+        <img src="./img/React.png" alt="React" title="React"  width="72" height="65"  />
         <img src="./img/Git.png" alt="Git" title="Git" width="65" height="65" />
         <img src="./img/Rust.png" alt="Rust" title="Rust"  width="65" height="65"  />
 </p>
