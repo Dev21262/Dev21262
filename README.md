@@ -5,8 +5,8 @@
     
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-        <img src="./img/HTML5.png" alt="HTML5" title="HTML5" width="60" height="65"  />
-        <img src="./img/CSS3.png" alt="CSS3"  title="CSS3" width="62" height="62"  />
+        <img src="./img/HTML5.png" alt="HTML5" title="HTML5" width="63" height="65"  />
+        <img src="./img/CSS3.png" alt="CSS3"  title="CSS3" width="63" height="63"  />
         <img src="./img/JS.png" alt="JavaScript" title="Javascript"  width="65" height="65"  />
         <img src="./img/React.png" alt="React" title="React"  width="72" height="65"  />
         <img src="./img/Git.png" alt="Git" title="Git" width="65" height="65" />
@@ -23,7 +23,7 @@
 &nbsp;  
 
 - 📖 I'm currently learning **Rust.**
-- 👩‍💻 I’m currently working on **a MGS inspired MP3 Player.**
+- 👩‍💻 I’m currently working on **a MGS2 inspired MP3 Player.**
 - ⚡ I'm a huge fan of **Star Wars and Metal Gear.**
 - 🏓 I'm passionate about **playing PS2 games, programming, writing, and enjoying life.**
 
