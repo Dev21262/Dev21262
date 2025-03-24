@@ -14,10 +14,11 @@
 </p>
     
 <a href="https://github.com/Dev21262/WProtein">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=WProtein&theme=dark&bg_color=122B07&border_color=transparent&text_color=CDDBC4&border_radius=10" alt="#1 Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=WProtein&theme=dark&bg_color=122B07&border=none&text_color=CDDBC4&border_radius=10" alt="#1 Repo">
 </a>
+&nbsp
 <a href="https://github.com/Dev21262/tenzies_js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=tenzies_js&theme=dark&bg_color=122B07&border_color=transparent&text_color=CDDBC4&border_radius=10" alt="#2 Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=tenzies_js&theme=dark&bg_color=122B07&border=none&text_color=CDDBC4&border_radius=10" alt="#2 Repo">
 </a>
 
 &nbsp;  
@@ -31,7 +32,7 @@
 <p>
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev21262&show_icons=true&locale=en&layout=compact&bg_color=122B07&title_color=FFFFFF&text_color=CDDBC4&icon_color=76c7c0&border_color=transparent&card_width=400&border_radius=10" alt="Most Used Languages" />
 </p>
-
+&nbsp
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=122B07&title_color=FEFEFD&text_color=CDDBC4&icon_color=76c7c0&border_color=transparent&card_width=500&border_radius=10" alt="GitHub Stats" />
 </p>
