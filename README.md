@@ -32,7 +32,8 @@
 <p>
      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev21262&show_icons=true&locale=en&layout=compact&bg_color=122B07&title_color=FFFFFF&text_color=CDDBC4&icon_color=76c7c0&border_color=122B07&card_width=400&border_radius=5" alt="Most Used Languages" />
 </p>
-&nbsp;
+<br><br>
+
 <p>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=122B07&title_color=FEFEFD&text_color=CDDBC4&icon_color=76c7c0&border_color=122B07&card_width=500&border_radius=5" alt="GitHub Stats" />
 </p>
