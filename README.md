@@ -14,11 +14,11 @@
 </p>
     
 <a href="https://github.com/Dev21262/mgscodec-mp3-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=WProtein&theme=dark&bg_color=122B07&border_color=122B07&text_color=CDDBC4&border_radius=5" alt="#1 Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=mgscodec-mp3-player&theme=light&bg_color=FFFFFF&border_color=DC2D2F&title_color=DC2D2F&text_color=000000&border_radius=5" alt="#1 Repo">
 </a>
 &nbsp;
 <a href="https://github.com/Dev21262/tenzies_js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=tenzies_js&theme=dark&bg_color=122B07&border_color=122B07&text_color=CDDBC4&border_radius=5" alt="#2 Repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dev21262&repo=tenzies_js&theme=light&bg_color=FFFFFF&border_color=DC2D2F&title_color=DC2D2F&text_color=000000&border_radius=5" alt="#2 Repo">
 </a>
 
 &nbsp;  
@@ -30,10 +30,9 @@
 
 <br>
 <p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev21262&show_icons=true&locale=en&layout=compact&bg_color=122B07&title_color=FFFFFF&text_color=CDDBC4&icon_color=76c7c0&border_color=122B07&card_width=400&border_radius=5" alt="Most Used Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev21262&show_icons=true&locale=en&layout=compact&bg_color=FFFFFF&title_color=DC2D2F&text_color=000000&icon_color=DC2D2F&border_color=DC2D2F&card_width=400&border_radius=5" alt="Most Used Languages" />
 </p>
 <br><br>
-
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=122B07&title_color=FEFEFD&text_color=CDDBC4&icon_color=76c7c0&border_color=122B07&card_width=500&border_radius=5" alt="GitHub Stats" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev21262&show_icons=true&locale=en&bg_color=FFFFFF&title_color=DC2D2F&text_color=000000&icon_color=DC2D2F&border_color=DC2D2F&card_width=500&border_radius=5" alt="GitHub Stats" />
 </p>
