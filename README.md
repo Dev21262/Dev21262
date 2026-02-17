@@ -14,32 +14,6 @@
   <img src="./img/Rust.png" alt="Rust" title="Rust" width="60" height="60"/>
 </p>
 
-<br>
-
-<h3>Featured Projects</h3>
-
-<a href="https://github.com/Dev21262/mgscodec-mp3-player">
-  <img src="https://opengraph.githubassets.com/1/Dev21262/mgscodec-mp3-player" width="600"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/Dev21262/WProtein">
-  <img src="https://opengraph.githubassets.com/1/Dev21262/WProtein" width="600"/>
-</a>
-
-<br><br>
-
-<h3>Repo Stats</h3>
-
-<p>
-  <img src="https://img.shields.io/github/stars/Dev21262/mgscodec-mp3-player?style=for-the-badge&color=151515"/>
-  <img src="https://img.shields.io/github/last-commit/Dev21262/mgscodec-mp3-player?style=for-the-badge&color=151515"/>
-  <img src="https://img.shields.io/github/languages/top/Dev21262/mgscodec-mp3-player?style=for-the-badge&color=151515"/>
-</p>
-
-<br>
-
 - 📖 Currently learning **Rust**
 - 👩‍💻 Building a **MGS2-inspired MP3 Player**
 - ⚡ Huge fan of **Star Wars** and **Metal Gear**
